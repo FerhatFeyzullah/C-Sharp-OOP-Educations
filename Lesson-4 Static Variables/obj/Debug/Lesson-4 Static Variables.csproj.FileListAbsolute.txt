@@ -1,0 +1,7 @@
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-4 Static Variables\bin\Debug\Lesson-4 Static Variables.exe.config
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-4 Static Variables\bin\Debug\Lesson-4 Static Variables.exe
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-4 Static Variables\bin\Debug\Lesson-4 Static Variables.pdb
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-4 Static Variables\obj\Debug\Lesson-4 Static Variables.csproj.AssemblyReference.cache
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-4 Static Variables\obj\Debug\Lesson-4 Static Variables.csproj.CoreCompileInputs.cache
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-4 Static Variables\obj\Debug\Lesson-4 Static Variables.exe
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-4 Static Variables\obj\Debug\Lesson-4 Static Variables.pdb
