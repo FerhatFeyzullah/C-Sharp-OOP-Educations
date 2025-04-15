@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\V\u00E2viZof\\Desktop\\C# OOP\\Lesson-5 Static Consctructor Method\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{638123D7-D018-475C-8B58-690649A11B74}|Lesson-5 Static Consctructor Method Usage.csproj|C:\\Users\\V\u00E2viZof\\Desktop\\C# OOP\\Lesson-5 Static Consctructor Method\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638123D7-D018-475C-8B58-690649A11B74}|Lesson-5 Static Consctructor Method Usage.csproj|solutionrelative:kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638123D7-D018-475C-8B58-690649A11B74}|Lesson-5 Static Consctructor Method Usage.csproj|c:\\users\\v\u00E2vizof\\desktop\\c# oop\\lesson-5 static consctructor method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638123D7-D018-475C-8B58-690649A11B74}|Lesson-5 Static Consctructor Method Usage.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "C:\\Users\\V\u00E2viZof\\Desktop\\C# OOP\\Lesson-5 Static Consctructor Method\\Kullanici.cs",
+              "RelativeDocumentMoniker": "Kullanici.cs",
+              "ToolTip": "C:\\Users\\V\u00E2viZof\\Desktop\\C# OOP\\Lesson-5 Static Consctructor Method\\Kullanici.cs",
+              "RelativeToolTip": "Kullanici.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T16:23:06.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\V\u00E2viZof\\Desktop\\C# OOP\\Lesson-5 Static Consctructor Method\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\V\u00E2viZof\\Desktop\\C# OOP\\Lesson-5 Static Consctructor Method\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T16:22:54.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

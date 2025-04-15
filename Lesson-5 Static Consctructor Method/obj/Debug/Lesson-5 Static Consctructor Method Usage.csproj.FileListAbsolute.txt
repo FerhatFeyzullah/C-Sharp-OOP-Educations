@@ -1,0 +1,7 @@
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-5 Static Consctructor Method Usage\bin\Debug\Lesson-5 Static Consctructor Method Usage.exe.config
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-5 Static Consctructor Method Usage\bin\Debug\Lesson-5 Static Consctructor Method Usage.exe
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-5 Static Consctructor Method Usage\bin\Debug\Lesson-5 Static Consctructor Method Usage.pdb
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-5 Static Consctructor Method Usage\obj\Debug\Lesson-5 Static Consctructor Method Usage.csproj.AssemblyReference.cache
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-5 Static Consctructor Method Usage\obj\Debug\Lesson-5 Static Consctructor Method Usage.csproj.CoreCompileInputs.cache
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-5 Static Consctructor Method Usage\obj\Debug\Lesson-5 Static Consctructor Method Usage.exe
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-5 Static Consctructor Method Usage\obj\Debug\Lesson-5 Static Consctructor Method Usage.pdb
