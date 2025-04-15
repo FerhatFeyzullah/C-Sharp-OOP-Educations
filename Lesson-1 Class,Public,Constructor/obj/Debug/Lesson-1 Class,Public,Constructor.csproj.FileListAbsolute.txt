@@ -1,0 +1,7 @@
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-1 Class,Public,Constructor\bin\Debug\Lesson-1 Class,Public,Constructor.exe.config
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-1 Class,Public,Constructor\bin\Debug\Lesson-1 Class,Public,Constructor.exe
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-1 Class,Public,Constructor\bin\Debug\Lesson-1 Class,Public,Constructor.pdb
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-1 Class,Public,Constructor\obj\Debug\Lesson-1 Class,Public,Constructor.csproj.AssemblyReference.cache
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-1 Class,Public,Constructor\obj\Debug\Lesson-1 Class,Public,Constructor.csproj.CoreCompileInputs.cache
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-1 Class,Public,Constructor\obj\Debug\Lesson-1 Class,Public,Constructor.exe
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-1 Class,Public,Constructor\obj\Debug\Lesson-1 Class,Public,Constructor.pdb

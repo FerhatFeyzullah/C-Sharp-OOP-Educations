@@ -1,0 +1,7 @@
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-2 Encapsulation\bin\Debug\Lesson-2 Encapsulation.exe.config
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-2 Encapsulation\bin\Debug\Lesson-2 Encapsulation.exe
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-2 Encapsulation\bin\Debug\Lesson-2 Encapsulation.pdb
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-2 Encapsulation\obj\Debug\Lesson-2 Encapsulation.csproj.AssemblyReference.cache
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-2 Encapsulation\obj\Debug\Lesson-2 Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-2 Encapsulation\obj\Debug\Lesson-2 Encapsulation.exe
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-2 Encapsulation\obj\Debug\Lesson-2 Encapsulation.pdb
