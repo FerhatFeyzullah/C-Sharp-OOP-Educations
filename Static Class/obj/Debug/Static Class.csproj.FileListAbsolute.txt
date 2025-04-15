@@ -1,0 +1,7 @@
+C:\Users\VâviZof\Desktop\C# OOP\Static Class\bin\Debug\Static Class.exe.config
+C:\Users\VâviZof\Desktop\C# OOP\Static Class\bin\Debug\Static Class.exe
+C:\Users\VâviZof\Desktop\C# OOP\Static Class\bin\Debug\Static Class.pdb
+C:\Users\VâviZof\Desktop\C# OOP\Static Class\obj\Debug\Static Class.csproj.AssemblyReference.cache
+C:\Users\VâviZof\Desktop\C# OOP\Static Class\obj\Debug\Static Class.csproj.CoreCompileInputs.cache
+C:\Users\VâviZof\Desktop\C# OOP\Static Class\obj\Debug\Static Class.exe
+C:\Users\VâviZof\Desktop\C# OOP\Static Class\obj\Debug\Static Class.pdb
