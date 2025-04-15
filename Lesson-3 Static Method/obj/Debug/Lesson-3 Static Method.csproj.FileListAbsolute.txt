@@ -1,0 +1,7 @@
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-3 Static Method\bin\Debug\Lesson-3 Static Method.exe.config
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-3 Static Method\bin\Debug\Lesson-3 Static Method.exe
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-3 Static Method\bin\Debug\Lesson-3 Static Method.pdb
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-3 Static Method\obj\Debug\Lesson-3 Static Method.csproj.AssemblyReference.cache
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-3 Static Method\obj\Debug\Lesson-3 Static Method.csproj.CoreCompileInputs.cache
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-3 Static Method\obj\Debug\Lesson-3 Static Method.exe
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-3 Static Method\obj\Debug\Lesson-3 Static Method.pdb
