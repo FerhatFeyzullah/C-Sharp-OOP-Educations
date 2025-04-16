@@ -1,0 +1,7 @@
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-8 Inheritance - Polymorphism\bin\Debug\Lesson-8 Inheritance - Polymorphism.exe.config
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-8 Inheritance - Polymorphism\bin\Debug\Lesson-8 Inheritance - Polymorphism.exe
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-8 Inheritance - Polymorphism\bin\Debug\Lesson-8 Inheritance - Polymorphism.pdb
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-8 Inheritance - Polymorphism\obj\Debug\Lesson-8 Inheritance - Polymorphism.csproj.AssemblyReference.cache
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-8 Inheritance - Polymorphism\obj\Debug\Lesson-8 Inheritance - Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-8 Inheritance - Polymorphism\obj\Debug\Lesson-8 Inheritance - Polymorphism.exe
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-8 Inheritance - Polymorphism\obj\Debug\Lesson-8 Inheritance - Polymorphism.pdb
