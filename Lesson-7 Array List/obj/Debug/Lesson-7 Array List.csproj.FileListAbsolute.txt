@@ -1,0 +1,7 @@
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-7 Array List\bin\Debug\Lesson-7 Array List.exe.config
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-7 Array List\bin\Debug\Lesson-7 Array List.exe
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-7 Array List\bin\Debug\Lesson-7 Array List.pdb
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-7 Array List\obj\Debug\Lesson-7 Array List.csproj.AssemblyReference.cache
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-7 Array List\obj\Debug\Lesson-7 Array List.csproj.CoreCompileInputs.cache
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-7 Array List\obj\Debug\Lesson-7 Array List.exe
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-7 Array List\obj\Debug\Lesson-7 Array List.pdb
