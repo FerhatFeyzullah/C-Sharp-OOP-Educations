@@ -1,0 +1,7 @@
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-9 Interface\bin\Debug\Lesson-9 Interface.exe.config
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-9 Interface\bin\Debug\Lesson-9 Interface.exe
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-9 Interface\bin\Debug\Lesson-9 Interface.pdb
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-9 Interface\obj\Debug\Lesson-9 Interface.csproj.AssemblyReference.cache
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-9 Interface\obj\Debug\Lesson-9 Interface.csproj.CoreCompileInputs.cache
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-9 Interface\obj\Debug\Lesson-9 Interface.exe
+C:\Users\VâviZof\Desktop\C# OOP\Lesson-9 Interface\obj\Debug\Lesson-9 Interface.pdb
