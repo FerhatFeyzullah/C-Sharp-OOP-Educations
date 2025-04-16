@@ -1,0 +1,7 @@
+C:\Users\VâviZof\Desktop\C# OOP\Lesson10- Abstract Class\bin\Debug\Lesson10- Abstract Class.exe.config
+C:\Users\VâviZof\Desktop\C# OOP\Lesson10- Abstract Class\bin\Debug\Lesson10- Abstract Class.exe
+C:\Users\VâviZof\Desktop\C# OOP\Lesson10- Abstract Class\bin\Debug\Lesson10- Abstract Class.pdb
+C:\Users\VâviZof\Desktop\C# OOP\Lesson10- Abstract Class\obj\Debug\Lesson10- Abstract Class.csproj.AssemblyReference.cache
+C:\Users\VâviZof\Desktop\C# OOP\Lesson10- Abstract Class\obj\Debug\Lesson10- Abstract Class.csproj.CoreCompileInputs.cache
+C:\Users\VâviZof\Desktop\C# OOP\Lesson10- Abstract Class\obj\Debug\Lesson10- Abstract Class.exe
+C:\Users\VâviZof\Desktop\C# OOP\Lesson10- Abstract Class\obj\Debug\Lesson10- Abstract Class.pdb
